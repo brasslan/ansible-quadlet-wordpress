@@ -13,7 +13,7 @@ Mimic the Kubernetes [Example: Deploying WordPress and MySQL with Persistent Vol
         ```
     - Clone this repo
         ```
-        git clone https://github.com/ygalblum/quadlet-demo.git
+        git clone https://github.com/brasslan/ansible-quadlet-wordpress
         ```
     - Install the required Galaxy collections
         ```
