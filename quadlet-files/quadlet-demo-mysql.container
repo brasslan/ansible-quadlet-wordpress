@@ -2,7 +2,7 @@
 WantedBy=default.target
 
 [Container]
-Image=docker.io/library/mysql:5.6
+Image=docker.io/library/mariadb:lts
 ContainerName=quadlet-demo-mysql
 Volume=quadlet-demo-mysql.volume:/var/lib/mysql
 Network=quadlet-demo.network
